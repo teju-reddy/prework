@@ -54,7 +54,7 @@ Here's a walkthrough of implemented user stories:
    iles are dependent on each other and each file has its own specific functions. I did not really struggle at any other stage of the tutorial. 
    The steps were easy to follow and the descriptions helped me understand how the different files are utilized to create the final project. 
    I attempted several of the optional features and struggled on some of them. Specifically, I tried the second optional feature which was
-   speeding up the clue playback each turn but was not really able to figure out where my code was going wrong.
+   speeding up the clue playback each turn but was not really able to figure out where my code was going wrong. I tried debugging the code with the console, unfortunately I did not have enough time to figure out where the error was. If I had more time, I would have tried to figure out the problem by debugging the code. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)  
   I do not have much experience with web development and the design side of coding. I have mainly focused on back end code in my classes. 
